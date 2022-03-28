@@ -1,4 +1,4 @@
-# Remimbursement Management System
+# Remimbursement Management System2
 
 A continuation to the reimbursement request application Where a user can login as an employee or a manager. 
 An employee can make a reimbursement request and the manager can list all reimbursements approved, denied and pending separately. 
